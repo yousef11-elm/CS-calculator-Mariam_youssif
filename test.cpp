@@ -14,6 +14,8 @@ int main(int argc, char* argv[])
     cout << "Random (1 to 10): " << randomInRange(1, 10) << '\n';
     string expr = "3 + 4 * (2 - 1) / 5";
     cout << "Expression Evaluation: " << expr << " = " << evaluateExpression(expr) << '\n';
+    cout << "2^5 = " << power(2, 5) << "\n";
+    cout << "3^-2 = " << power(3, -2) << "\n";
     system("pause");
     return 0;
 }

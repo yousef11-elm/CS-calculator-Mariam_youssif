@@ -15,5 +15,7 @@ int randomInRange(int min, int max);
 int precedence(char op);
 int applyOperator(int a, int b, char op);
 int evaluateExpression(const std::string& expression);
+double power(double base, int exponent);
+
 
 #endif 
