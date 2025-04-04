@@ -1,4 +1,4 @@
-# CS2-Calculator-YousefElmasry
+# CS2-Calculator-YousefElmasry and Mariam tahoun
 This is a simple calculator library written in C++ that supports:
 - Addition, subtraction, multiplication, and division
 - Factorial, GCD, LCM
